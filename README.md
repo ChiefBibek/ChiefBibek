@@ -45,6 +45,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/312lvj4pdxndzjlz2fguuf7dystm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312lvj4pdxndzjlz2fguuf7dystm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 ###
 
@@ -62,14 +73,4 @@
 
 ###
 
-<img align="right" height="346" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/312lvj4pdxndzjlz2fguuf7dystm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312lvj4pdxndzjlz2fguuf7dystm&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
