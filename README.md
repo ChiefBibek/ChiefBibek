@@ -27,6 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="36"/> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  height="36"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  height="36"/>
 </div>
 
 ###
