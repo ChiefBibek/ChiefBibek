@@ -32,6 +32,12 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="36"/>
   <img width="14" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  height="40"/>
+    <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="fastapi logo" />
+    <img width="14" />
+  <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo" />
+    <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="anaconda logo" />
 </div>
 
 ###
