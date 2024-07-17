@@ -24,9 +24,13 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="36" alt="css3 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo"  />
+  <img width="14" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="36"/> 
+  <img width="14" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  height="36"/> 
+  <img width="14" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="36"/>
+  <img width="14" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  height="40"/>
 </div>
 
