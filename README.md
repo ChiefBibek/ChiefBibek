@@ -17,7 +17,7 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="36" alt="html5 logo"  />
   <img width="14" />
@@ -26,13 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="bootstrap logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="36"/> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  height="36"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="36"/>
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bibekbikramshahi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" text-decoration:"none" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"  alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Bibekbikram123" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
