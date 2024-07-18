@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=flask" height="36" alt="flask logo" />
     <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="36" alt="anaconda logo" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)" height="36" alt="anaconda logo" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)" height="36" alt="anaconda logo" />
 </div>
 
 ###
