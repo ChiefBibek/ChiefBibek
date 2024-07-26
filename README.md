@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Myself Bibek Bikram Shahi and I'm a passionate Programmer and machine learning enthusiast from Nepal. </h2>
+<h2 align="center">Hi👋! Myself Bibek Bikram Shahi and I'm a passionate Programmer and machine learning enthusiast from Nepal. </h2>
 
 ###
 
