@@ -41,7 +41,7 @@
     <img width="14" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)" height="36" alt="Powe BI" />
     <img width="14" />
-  <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><use href="#simple-icons--rasa"/></svg>
+ <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><use href="#simple-icons--rasa"/></svg>
     <img width="14" />
 </div>
 
