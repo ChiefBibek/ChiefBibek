@@ -43,6 +43,8 @@
     <img width="14" />
  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLq7UvAqhIJ1yUKjApVsWtjQbBdNe991yxgPdPnbdmurW7HJbz" height="36" alt="RASA" />
     <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="tensorflow logo"  />
+  <img width="14" />
 </div>
 
 ###
