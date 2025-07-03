@@ -51,6 +51,8 @@
   <img width="14" />
    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="36" alt="tensorflow logo"  />
   <img width="14" />
+   <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" height="36" alt="tensorflow logo"  />
+  <img width="14" />
   
 </div>
 
